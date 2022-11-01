@@ -6,10 +6,14 @@ const port = process.env.PORT || 5000;
 
 app.use(cors());
 
-const categories = require ('./Data/category.json');
+const categories = require ('./Data/categories.json');
 
 app.get('/', (req, res) =>{
     res.send('Learning Platform server is running');
+});
+
+app.get('/learning-categories', (req, res) =>{
+    res.send(categories);
 })
 
 app.listen(port, () => {
