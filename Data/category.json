@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "name" : "HTML",
+        "img" : "https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw"
+    },
+    {
+        "id": "02",
+        "name" : "CSS",
+        "img" : "https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8.jpg"
+    },
+    {
+        "id": "03",
+        "name" : "JavaScript",
+        "img" : "https://user-images.githubusercontent.com/65357821/82758846-0394c180-9e0f-11ea-8b02-51f885eff3f5.png"
+    },
+    {
+        "id": "04",
+        "name" : "React JS",
+        "img" : "https://www.mindinventory.com/blog/wp-content/uploads/2018/07/reactjs-1200x600.jpg"
+    },
+    {
+        "id": "05",
+        "name" : "MongoDb",
+        "img" : "https://community-cdn-digitalocean-com.global.ssl.fastly.net/emSBsESzw1x2Ya8W3Uo9LihD"
+    },
+    {
+        "id": "06",
+        "name" : "Node",
+        "img" : "https://railsware.com/blog/wp-content/uploads/2018/09/2400%D1%851260-rw-blog-node-js.png"
+    }
+]
