@@ -1,0 +1,568 @@
+[
+    {
+        "_id" : "014dhy25sud689",
+        "courseName": "HTML",
+        "courseItem_id": "01",
+        "questions": [
+             {
+                "0" : [
+                    {
+                        "correctAns" : "building  User Interface",
+                        "id" : "632800dfb0e009073fe05100",
+                        "options" : [
+                            {
+                                "0":"Hyper Text Multimedia Limited",
+                                "1" :"Hope tight multiplex limited",
+                                "2" :"HyperText Markup Language",
+                                "3" : "Nothing"
+                            }
+                        ],
+                        "question" : "<p>HTML stand for what?</p>"
+                    }
+                ]
+            },
+            {
+                "1" : [
+                    {
+                        "correctAns" : "structure a web page and its content",
+                        "id" : "632800dfb0e009073fe05101",
+                        "options" : [
+                            {
+                                "0": "structured for the browser",
+                                "1": "structure a web page and its content",
+                                "2": "Making a web page",
+                                "3": "Huddai use kori"
+                            }
+                        ],
+                        "question" : "<p>HTML used for what?</p>"
+                    }
+                ]
+            },
+            {
+                "2" : [
+                    {
+                        "correctAns" : "<h1>",
+                        "id" : "632800dfb0e009073fe05102",
+                        "options" : [
+                            {
+                                "0": "<h1>",
+                                "1": "<Heading>",
+                                "2": "<h6>",
+                                "3": "<head>"
+                            }
+                        ],
+                        "question" : "<p>Choose the correct HTML element for the largest heading?</p>"
+                    }
+                ]
+            },
+            {
+                "3" : [
+                    {
+                        "correctAns" : "<br>",
+                        "id" : "632800dfb0e009073fe05103",
+                        "options" : [
+                            {
+                                "0": "<lb>",
+                                "1": "<br>",
+                                "2": "<break>",
+                                "3": "<a>"
+                            }
+                        ],
+                        "question" : "<p>What is the correct HTML element for inserting a line break?</p>"
+                    }
+                ]
+            },
+            {
+                "4" : [
+                    {
+                        "correctAns" : "<table> <tr> <th>",
+                        "id" : "632800dfb0e009073fe05104",
+                        "options" : [
+                            {
+                                "0": "<table> <tr> <th>",
+                                "1": "<table> <tr> <tt>",
+                                "2": "<table> <head> <body>",
+                                "3" : "<thead> <body> <footer>"
+                            }
+                        ],
+                        "question" : "<p>Which of these elements are all <table> elements?</p>"
+                    }
+                ]
+            }
+            
+        ]
+
+    },
+    {
+        "_id" : "14di3u589syt8",
+        "courseName": "CSS",
+        "courseItem_id": "02",
+        "questions": [
+             {
+                "0" : [
+                    {
+                        "correctAns" : "Cascading Style Sheets",
+                        "id" : "632800dfb0e009073fe05200",
+                        "options" : [
+                            {
+                                "0":"Cascading Style Sheets",
+                                "1" :"Colorful style sheet",
+                                "2" :"Creative style sheet",
+                                "3" : "Computer style sheet"
+                            }
+                        ],
+                        "question" : "<p>What does CSS stand for?</p>"
+                    }
+                ]
+            },
+            {
+                "1" : [
+                    {
+                        "correctAns" : "In the <head> section",
+                        "id" : "632800dfb0e009073fe05201",
+                        "options" : [
+                            {
+                                "0": "At the end of the document",
+                                "1": "In the <head> section",
+                                "2": "In the <body> section",
+                                "3": "In the <footer> section"
+                            }
+                        ],
+                        "question" : "<p>Where in an HTML document is the correct place to refer to an external style sheet?</p>"
+                    }
+                ]
+            },
+            {
+                "2" : [
+                    {
+                        "correctAns" : "<style>",
+                        "id" : "632800dfb0e009073fe05202",
+                        "options" : [
+                            {
+                                "0": "<style>",
+                                "1": "<script>",
+                                "2": "<css>",
+                                "3": "Ami jani na"
+                            }
+                        ],
+                        "question" : "<p>Which HTML tag is used to define an internal style sheet?</p>"
+                    }
+                ]
+            },
+            {
+                "3" : [
+                    {
+                        "correctAns" : "background-color",
+                        "id" : "632800dfb0e009073fe05203",
+                        "options" : [
+                            {
+                                "0": "background-color",
+                                "1": "color",
+                                "2": "bgcolor",
+                                "3": "bgColor"
+                            }
+                        ],
+                        "question" : "<p>Which property is used to change the background color?</p>"
+                    }
+                ]
+            },
+            {
+                "4" : [
+                    {
+                        "correctAns" : "font-size",
+                        "id" : "632800dfb0e009073fe05204",
+                        "options" : [
+                            {
+                                "0": "text-size",
+                                "1": "font-size",
+                                "2": "text-style",
+                                "3" : "font-size"
+                            }
+                        ],
+                        "question" : "<p>Which CSS property controls the text size?</p>"
+                    }
+                ]
+            }
+            
+        ]
+
+    },
+    {
+        "_id" : "578hsd95du9",
+        "courseName": "JavaScript",
+        "courseItem_id": "03",
+        "questions": [
+             {
+                "0" : [
+                    {
+                        "correctAns" : "All the above",
+                        "id" : "632800dfb0e009073fe05300",
+                        "options" : [
+                            {
+                                "0": "High-level, often just-in-time compiled, and multi-paradigm programming language",
+                                "1": "Dynamic typing, prototype-based object-orientation programming language",
+                                "2": "A multi-paradigm language that supports event-driven, functional, and imperative programming styles",
+                                "3": "All the above"
+                            }
+                        ],
+                        "question" : "<p>What is Javascript (Just google: wikipedia javascript and read first four paragraphs)</p>"
+                    }
+                ]
+            },
+            {
+                "1" : [
+                    {
+                        "correctAns" : "bulbuli",
+                        "id" : "632800dfb0e009073fe05301",
+                        "options" : [
+                            {
+                                "0" : "boolean",
+                                "1" : "bulbuli",
+                                "2" : "number",
+                                "3" : "string"
+                            }
+                        ],
+                        "question" : "<p>Which one is not a type of variable?</p>"
+                    }
+                ]
+            },
+            {
+                "2" : [
+                    {
+                        "correctAns" : "parseInt()",
+                        "id" : "632800dfb0e009073fe05302",
+                        "options" : [
+                            {
+                                "0": "parseFloat()",
+                                "1": "parseString()",
+                                "2": "parseNumber()",
+                                "3": "parseInt()"
+                            }
+                        ],
+                        "question" : "<p>Which method is used to convert a string to an integer?</p>"
+                    }
+                ]
+            },
+            {
+                "3" : [
+                    {
+                        "correctAns" : "Netscape",
+                        "id" : "632800dfb0e009073fe05303",
+                        "options" : [
+                            {
+                                "0": "Netscape",
+                                "1": "Google",
+                                "2": "Facebook",
+                                "3": "Firefox"
+                            }
+                        ],
+                        "question" : 
+                        "<p>Which company developed JavaScript? (feel free to google it)</p>"
+                        
+                    }
+                ]
+            },
+            {
+                "4" : [
+                    {
+                        "correctAns" : "\\",
+                        "id" : "632800dfb0e009073fe05304",
+                        "options" : [
+                            {
+                                "0": "/",
+                                "1": "%",
+                                "2": "*",
+                                "3": "\\"
+                            }
+                        ],
+                        "question" : "<p>Which one is not a mathematical operator in JS?</p>"
+                    }
+                ]
+            }
+            
+        ]
+
+    },
+    {
+        "_id" : "02p248l9873td91dhj",
+        "courseName": "React",
+        "courseItem_id": "04",
+        "questions": [
+             {
+                "0" : [
+                    {
+                        "correctAns" : "building  User Interface",
+                        "id" : "632800dfb0e009073fe05400",
+                        "options" : [
+                            {
+                                "0":"building  User Interface",
+                                "1" :"building Database",
+                                "2" :"building User Data Flow",
+                                "3" : "building  Shop"
+                            }
+                        ],
+                        "question" : "<p>React is mainly used & nbsp;for _______ (if needed, google it)</p>"
+                    }
+                ]
+            },
+            {
+                "1" : [
+                    {
+                        "correctAns" : "className = “myClass”",
+                        "id" : "632800dfb0e009073fe05401",
+                        "options" : [
+                            {
+                                "0": "class  = “myClass”",
+                                "1": "Class = “myClass”",
+                                "2": "className = “myClass”",
+                                "3": "I don't know"
+                            }
+                        ],
+                        "question" : "<p>How do you declare a class called “myClass” in react?</p>"
+                    }
+                ]
+            },
+            {
+                "2" : [
+                    {
+                        "correctAns" : "map",
+                        "id" : "632800dfb0e009073fe05402",
+                        "options" : [
+                            {
+                                "0": "filter",
+                                "1": "find",
+                                "2": "map",
+                                "3": "for"
+                            }
+                        ],
+                        "question" : "<p>Which method will you use in react to display components for each object in an array?</p>"
+                    }
+                ]
+            },
+            {
+                "3" : [
+                    {
+                        "correctAns" : "const [name, setName] =  useState(“JingaLala”);",
+                        "id" : "632800dfb0e009073fe05403",
+                        "options" : [
+                            {
+                                "0": "const { name, setName } =  useState(“JingaLala”);",
+                                "1": "[name, setName] =  UseState(“JingaLala”);",
+                                "2": "const ( name, setName ) =  useState(“JingaLala”);",
+                                "3": "const [name, setName] =  useState(“JingaLala”);"
+                            }
+                        ],
+                        "question" : "<p>How will create a state with a default value “JingaLala”?</p>"
+                    }
+                ]
+            },
+            {
+                "4" : [
+                    {
+                        "correctAns" : "class is a reserved keyword in javascript",
+                        "id" : "632800dfb0e009073fe05404",
+                        "options" : [
+                            {
+                                "0": "We  should use class instead of className",
+                                "1": "class is a reserved keyword in javascript",
+                                "2": "We can use any name ",
+                                "3" : "we don't use the keyword"
+                            }
+                        ],
+                        "question" : "<p>Why can't we declare a class with the “class” keyword in React?</p>"
+                    }
+                ]
+            }
+            
+        ]
+
+    },
+    {
+        "_id" : "864eys879ws0",
+        "courseName": "MongoDB",
+        "courseItem_id": "05",
+        "questions": [
+             {
+                "0" : [
+                    {
+                        "correctAns" : "100ms",
+                        "id" : "632800dfb0e009073fe05500",
+                        "options" : [
+                            {
+                                "0": "60s",
+                                "1": "100ms",
+                                "2": "ls",
+                                "3": "lOOs"
+                            }
+                        ],
+                        "question" : "<p>Within how much time does MongDB writes are written to the journal?</p>"
+                    }
+                ]
+            },
+            {
+                "1" : [
+                    {
+                        "correctAns" : "Arbiter",
+                        "id" : "632800dfb0e009073fe05501",
+                        "options" : [
+                            {
+                                "0": "Secondary",
+                                "1": "Arbiter",
+                                "2": "Delayed",
+                                "3": "Hidden"
+                            }
+                        ],
+                        "question" : "<p>What is a replica set node which does not maintain its own data but exists only for voting purpose called?</p>"
+                    }
+                ]
+            },
+            {
+                "2" : [
+                    {
+                        "correctAns" : "JSON",
+                        "id" : "632800dfb0e009073fe05502",
+                        "options" : [
+                            {
+                                "0": "BSON",
+                                "1": "JSON",
+                                "2": "JSON-Extended",
+                                "3": "B+ Trees"
+                            }
+                        ],
+                        "question" : "<p>Which format/standard is used by MongoDB internally to store documents?</p>"
+                    }
+                ]
+            },
+            {
+                "3" : [
+                    {
+                        "correctAns" : "All of the above",
+                        "id" : "632800dfb0e009073fe05503",
+                        "options" : [
+                            {
+                                "0": "cursor.next()",
+                                "1": "cursor.hasNext()",
+                                "2": "cursor.forEach()",
+                                "3": "All of the above;"
+                            }
+                        ],
+                        "question" : "<p>Which of the following methods can be used on a cursor object?</p>"
+                    }
+                ]
+            },
+            {
+                "4" : [
+                    {
+                        "correctAns" : "Concurrency Control",
+                        "id" : "632800dfb0e009073fe0504",
+                        "options" : [
+                            {
+                                "0": "Concurrency Control",
+                                "1": "Transaction Management",
+                                "2": "Atomicity",
+                                "3" : "Performance Management"
+                            }
+                        ],
+                        "question" : "<p>Update If Correct is an approach for which of the following concepts in MongoDB?</p>"
+                    }
+                ]
+            }
+            
+        ]
+
+    },
+    {
+        "_id" : "864eys879ws0",
+        "courseName": "NodeJs",
+        "courseItem_id": "06",
+        "questions": [
+             {
+                "0" : [
+                    {
+                        "correctAns" : "Read Eval Print Loop",
+                        "id" : "632800dfb0e009073fe05600",
+                        "options" : [
+                            {
+                                "0": "Research Eval Print Loop",
+                                "1": "Read Eval Print Loop",
+                                "2": "Read Earn Point Learn",
+                                "3": "Read Eval Point Loop"
+                            }
+                        ],
+                        "question" : "<p>REPL stands for?</p>"
+                    }
+                ]
+            },
+            {
+                "1" : [
+                    {
+                        "correctAns" : "$ npm ls -g",
+                        "id" : "632800dfb0e009073fe05601",
+                        "options" : [
+                            {
+                                "0": "$ npm ls -g",
+                                "1": "$ npm ls",
+                                "2": "$ node ls -g",
+                                "3": "$ node ls"
+                            }
+                        ],
+                        "question" : "<p>Which of the following command will show all the modules installed globally?</p>"
+                    }
+                ]
+            },
+            {
+                "2" : [
+                    {
+                        "correctAns" : "buf.toJSON()",
+                        "id" : "632800dfb0e009073fe05502",
+                        "options" : [
+                            {
+                                "0": "buf.toJSON()",
+                                "1": "buf.json()",
+                                "2": "buf.covertToJson()",
+                                "3": "buf.jsonify()"
+                            }
+                        ],
+                        "question" : "<p>Which of the following code converts a buffer buf to JSON object?</p>"
+                    }
+                ]
+            },
+            {
+                "3" : [
+                    {
+                        "correctAns" : "fs.stat(path, callback)",
+                        "id" : "632800dfb0e009073fe05503",
+                        "options" : [
+                            {
+                                "0": "fs.open(path, flags[, mode], callback)",
+                                "1": "fs.stat(path, callback)",
+                                "2": "fs.readFile(path, flags[, mode], callback)",
+                                "3": "None of the above"
+                            }
+                        ],
+                        "question" : "<p>Which method of fs module is used to get information about file?</p>"
+                    }
+                ]
+            },
+            {
+                "4" : [
+                    {
+                        "correctAns" : "os module",
+                        "id" : "632800dfb0e009073fe0504",
+                        "options" : [
+                            {
+                                "0": "os module",
+                                "1": "fs module",
+                                "2": "net module",
+                                "3": "None of the above"
+                            }
+                        ],
+                        "question" : "<p>Which of the following module is required for operating system specific operations?</p>"
+                    }
+                ]
+            }
+            
+        ]
+
+    }
+]
