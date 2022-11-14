@@ -2,13 +2,13 @@
     {
         "_id" : "014dhy25sud689",
         "courseName": "HTML",
-        "courseItem_id": "01",
+        "category_id": "01",
         "questions": [
              {
                 "0" : [
                     {
                         "correctAns" : "building  User Interface",
-                        "id" : "632800dfb0e009073fe05100",
+                        "details_Id" : "632800dfb0e009073fe05100",
                         "options" : [
                             {
                                 "0":"Hyper Text Multimedia Limited",
@@ -25,7 +25,7 @@
                 "1" : [
                     {
                         "correctAns" : "structure a web page and its content",
-                        "id" : "632800dfb0e009073fe05101",
+                        "details_Id" : "632800dfb0e009073fe05101",
                         "options" : [
                             {
                                 "0": "structured for the browser",
@@ -42,7 +42,7 @@
                 "2" : [
                     {
                         "correctAns" : "<h1>",
-                        "id" : "632800dfb0e009073fe05102",
+                        "details_Id" : "632800dfb0e009073fe05102",
                         "options" : [
                             {
                                 "0": "<h1>",
@@ -59,7 +59,7 @@
                 "3" : [
                     {
                         "correctAns" : "<br>",
-                        "id" : "632800dfb0e009073fe05103",
+                        "details_Id" : "632800dfb0e009073fe05103",
                         "options" : [
                             {
                                 "0": "<lb>",
@@ -76,7 +76,7 @@
                 "4" : [
                     {
                         "correctAns" : "<table> <tr> <th>",
-                        "id" : "632800dfb0e009073fe05104",
+                        "details_Id" : "632800dfb0e009073fe05104",
                         "options" : [
                             {
                                 "0": "<table> <tr> <th>",
@@ -96,13 +96,13 @@
     {
         "_id" : "14di3u589syt8",
         "courseName": "CSS",
-        "courseItem_id": "02",
+        "category_id": "02",
         "questions": [
              {
                 "0" : [
                     {
                         "correctAns" : "Cascading Style Sheets",
-                        "id" : "632800dfb0e009073fe05200",
+                        "details_Id" : "632800dfb0e009073fe05200",
                         "options" : [
                             {
                                 "0":"Cascading Style Sheets",
@@ -119,7 +119,7 @@
                 "1" : [
                     {
                         "correctAns" : "In the <head> section",
-                        "id" : "632800dfb0e009073fe05201",
+                        "details_Id" : "632800dfb0e009073fe05201",
                         "options" : [
                             {
                                 "0": "At the end of the document",
@@ -136,7 +136,7 @@
                 "2" : [
                     {
                         "correctAns" : "<style>",
-                        "id" : "632800dfb0e009073fe05202",
+                        "details_Id" : "632800dfb0e009073fe05202",
                         "options" : [
                             {
                                 "0": "<style>",
@@ -153,7 +153,7 @@
                 "3" : [
                     {
                         "correctAns" : "background-color",
-                        "id" : "632800dfb0e009073fe05203",
+                        "details_Id" : "632800dfb0e009073fe05203",
                         "options" : [
                             {
                                 "0": "background-color",
@@ -170,7 +170,7 @@
                 "4" : [
                     {
                         "correctAns" : "font-size",
-                        "id" : "632800dfb0e009073fe05204",
+                        "details_Id" : "632800dfb0e009073fe05204",
                         "options" : [
                             {
                                 "0": "text-size",
@@ -190,13 +190,13 @@
     {
         "_id" : "578hsd95du9",
         "courseName": "JavaScript",
-        "courseItem_id": "03",
+        "category_id": "03",
         "questions": [
              {
                 "0" : [
                     {
                         "correctAns" : "All the above",
-                        "id" : "632800dfb0e009073fe05300",
+                        "details_Id" : "632800dfb0e009073fe05300",
                         "options" : [
                             {
                                 "0": "High-level, often just-in-time compiled, and multi-paradigm programming language",
@@ -213,7 +213,7 @@
                 "1" : [
                     {
                         "correctAns" : "bulbuli",
-                        "id" : "632800dfb0e009073fe05301",
+                        "details_Id" : "632800dfb0e009073fe05301",
                         "options" : [
                             {
                                 "0" : "boolean",
@@ -230,7 +230,7 @@
                 "2" : [
                     {
                         "correctAns" : "parseInt()",
-                        "id" : "632800dfb0e009073fe05302",
+                        "details_Id" : "632800dfb0e009073fe05302",
                         "options" : [
                             {
                                 "0": "parseFloat()",
@@ -247,7 +247,7 @@
                 "3" : [
                     {
                         "correctAns" : "Netscape",
-                        "id" : "632800dfb0e009073fe05303",
+                        "details_Id" : "632800dfb0e009073fe05303",
                         "options" : [
                             {
                                 "0": "Netscape",
@@ -266,7 +266,7 @@
                 "4" : [
                     {
                         "correctAns" : "\\",
-                        "id" : "632800dfb0e009073fe05304",
+                        "details_Id" : "632800dfb0e009073fe05304",
                         "options" : [
                             {
                                 "0": "/",
@@ -286,13 +286,13 @@
     {
         "_id" : "02p248l9873td91dhj",
         "courseName": "React",
-        "courseItem_id": "04",
+        "category_id": "04",
         "questions": [
              {
                 "0" : [
                     {
                         "correctAns" : "building  User Interface",
-                        "id" : "632800dfb0e009073fe05400",
+                        "details_Id" : "632800dfb0e009073fe05400",
                         "options" : [
                             {
                                 "0":"building  User Interface",
@@ -309,7 +309,7 @@
                 "1" : [
                     {
                         "correctAns" : "className = “myClass”",
-                        "id" : "632800dfb0e009073fe05401",
+                        "details_Id" : "632800dfb0e009073fe05401",
                         "options" : [
                             {
                                 "0": "class  = “myClass”",
@@ -326,7 +326,7 @@
                 "2" : [
                     {
                         "correctAns" : "map",
-                        "id" : "632800dfb0e009073fe05402",
+                        "details_Id" : "632800dfb0e009073fe05402",
                         "options" : [
                             {
                                 "0": "filter",
@@ -343,7 +343,7 @@
                 "3" : [
                     {
                         "correctAns" : "const [name, setName] =  useState(“JingaLala”);",
-                        "id" : "632800dfb0e009073fe05403",
+                        "details_Id" : "632800dfb0e009073fe05403",
                         "options" : [
                             {
                                 "0": "const { name, setName } =  useState(“JingaLala”);",
@@ -360,7 +360,7 @@
                 "4" : [
                     {
                         "correctAns" : "class is a reserved keyword in javascript",
-                        "id" : "632800dfb0e009073fe05404",
+                        "details_Id" : "632800dfb0e009073fe05404",
                         "options" : [
                             {
                                 "0": "We  should use class instead of className",
@@ -380,13 +380,13 @@
     {
         "_id" : "864eys879ws0",
         "courseName": "MongoDB",
-        "courseItem_id": "05",
+        "category_id": "05",
         "questions": [
              {
                 "0" : [
                     {
                         "correctAns" : "100ms",
-                        "id" : "632800dfb0e009073fe05500",
+                        "details_Id" : "632800dfb0e009073fe05500",
                         "options" : [
                             {
                                 "0": "60s",
@@ -403,7 +403,7 @@
                 "1" : [
                     {
                         "correctAns" : "Arbiter",
-                        "id" : "632800dfb0e009073fe05501",
+                        "details_Id" : "632800dfb0e009073fe05501",
                         "options" : [
                             {
                                 "0": "Secondary",
@@ -420,7 +420,7 @@
                 "2" : [
                     {
                         "correctAns" : "JSON",
-                        "id" : "632800dfb0e009073fe05502",
+                        "details_Id" : "632800dfb0e009073fe05502",
                         "options" : [
                             {
                                 "0": "BSON",
@@ -437,7 +437,7 @@
                 "3" : [
                     {
                         "correctAns" : "All of the above",
-                        "id" : "632800dfb0e009073fe05503",
+                        "details_Id" : "632800dfb0e009073fe05503",
                         "options" : [
                             {
                                 "0": "cursor.next()",
@@ -454,7 +454,7 @@
                 "4" : [
                     {
                         "correctAns" : "Concurrency Control",
-                        "id" : "632800dfb0e009073fe0504",
+                        "details_Id" : "632800dfb0e009073fe0504",
                         "options" : [
                             {
                                 "0": "Concurrency Control",
@@ -474,13 +474,13 @@
     {
         "_id" : "7822djh6js89",
         "courseName": "NodeJs",
-        "courseItem_id": "06",
+        "category_id": "06",
         "questions": [
              {
                 "0" : [
                     {
                         "correctAns" : "Read Eval Print Loop",
-                        "id" : "632800dfb0e009073fe05600",
+                        "details_Id" : "632800dfb0e009073fe05600",
                         "options" : [
                             {
                                 "0": "Research Eval Print Loop",
@@ -497,7 +497,7 @@
                 "1" : [
                     {
                         "correctAns" : "$ npm ls -g",
-                        "id" : "632800dfb0e009073fe05601",
+                        "details_Id" : "632800dfb0e009073fe05601",
                         "options" : [
                             {
                                 "0": "$ npm ls -g",
@@ -514,7 +514,7 @@
                 "2" : [
                     {
                         "correctAns" : "buf.toJSON()",
-                        "id" : "632800dfb0e009073fe05502",
+                        "details_Id" : "632800dfb0e009073fe05502",
                         "options" : [
                             {
                                 "0": "buf.toJSON()",
@@ -531,7 +531,7 @@
                 "3" : [
                     {
                         "correctAns" : "fs.stat(path, callback)",
-                        "id" : "632800dfb0e009073fe05503",
+                        "details_Id" : "632800dfb0e009073fe05503",
                         "options" : [
                             {
                                 "0": "fs.open(path, flags[, mode], callback)",
@@ -548,7 +548,7 @@
                 "4" : [
                     {
                         "correctAns" : "os module",
-                        "id" : "632800dfb0e009073fe0504",
+                        "details_Id" : "632800dfb0e009073fe0504",
                         "options" : [
                             {
                                 "0": "os module",
