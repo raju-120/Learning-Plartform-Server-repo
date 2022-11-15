@@ -5,7 +5,7 @@
         "category_id": "01",
         "questions": [
              {
-                "0" : [
+                "0" : 
                     {
                         "correctAns" : "building  User Interface",
                         "details_Id" : "632800dfb0e009073fe05100",
@@ -19,7 +19,7 @@
                         ],
                         "question" : "<p>HTML stand for what?</p>"
                     }
-                ]
+                
             },
             {
                 "1" : [

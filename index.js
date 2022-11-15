@@ -21,7 +21,7 @@ app.get('/category/:id', (req, res) =>{
     const id = req.params.id;
     const category_course = courses.filter( c => c.category_id === id);
     res.send(category_course); 
-})
+});
 
 app.get('/course/:id', (req, res) =>{
     const id = req.params.id;
@@ -29,9 +29,6 @@ app.get('/course/:id', (req, res) =>{
     res.send(selected);
 });
 
-
-
-
 app.listen(port, () => {
     console.log('Learning platform Server running on port', port);
-})
+});
